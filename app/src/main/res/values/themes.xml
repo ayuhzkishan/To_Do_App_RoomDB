@@ -3,6 +3,9 @@
     <style name="Base.Theme.ToDoRoom" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+
+
     </style>
 
     <style name="Theme.ToDoRoom" parent="Base.Theme.ToDoRoom" />

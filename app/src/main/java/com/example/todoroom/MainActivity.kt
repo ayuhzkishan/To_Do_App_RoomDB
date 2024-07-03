@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() , ItemRowListener{
     private lateinit var viewModel: ToDoItemViewModel
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        enableEdgeToEdge()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
