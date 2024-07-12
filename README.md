@@ -22,6 +22,14 @@ This is a simple To-Do List application for Android built using Kotlin. The app 
 git clone https://github.com/ayuhzkishan/To_Do_App_RoomDB.git
 ```
 
+## Technologies
+
+Project is created with:
+* Kotlin version: 1.9.0
+* Gradle version: 8.7
+* Room version: 2.6.1
+
+
 ## Prerequisites for app
 
 - An Android device or emulator running Android 10 or higher
